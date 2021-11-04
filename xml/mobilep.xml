@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>Acrylate complete dentures</SERVICE>
+<PRICE>541€</PRICE>
+<DISCOUNT>487€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Wironit partial dentures</SERVICE>
+<PRICE>811€</PRICE>
+<DISCOUNT>730€</DISCOUNT>
+</ITEM>
+<ITEM id="3">
+<SERVICE>Wironit complete dentures</SERVICE>
+<PRICE>811€</PRICE>
+<DISCOUNT>730€</DISCOUNT>
+</ITEM>
+<ITEM id="4">
+<SERVICE>Attachments</SERVICE>
+<PRICE>101€</PRICE>
+<DISCOUNT>91€</DISCOUNT>
+</ITEM>
+<ITEM id="5">
+<SERVICE>Denture repairs</SERVICE>
+<PRICE>61€</PRICE>
+<DISCOUNT>55€</DISCOUNT>
+</ITEM>
+<ITEM id="6">
+<SERVICE>Denture relining</SERVICE>
+<PRICE>108€</PRICE>
+<DISCOUNT>97€</DISCOUNT>
+</ITEM>
+</CATALOG>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>Metal-ceramic crowns (CAD/CAM)</SERVICE>
+<PRICE>223€</PRICE>
+<DISCOUNT>201€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Full ceramic crowns</SERVICE>
+<PRICE>270€</PRICE>
+<DISCOUNT>243€</DISCOUNT>
+</ITEM>
+<ITEM id="3">
+<SERVICE>Full ceramic crowns – zircon (CAD/CAM)</SERVICE>
+<PRICE>324€</PRICE>
+<DISCOUNT>292€</DISCOUNT>
+</ITEM>
+<ITEM id="4">
+<SERVICE>Ceramic inlay/onlay</SERVICE>
+<PRICE>270€</PRICE>
+<DISCOUNT>243€</DISCOUNT>
+</ITEM>
+<ITEM id="5">
+<SERVICE>Ceramic veneers</SERVICE>
+<PRICE>304€</PRICE>
+<DISCOUNT>274€</DISCOUNT>
+</ITEM>
+<ITEM id="6">
+<SERVICE>Temporary denture</SERVICE>
+<PRICE>135€</PRICE>
+<DISCOUNT>121€</DISCOUNT>
+</ITEM>
+<ITEM id="7">
+<SERVICE>Temporary crowns</SERVICE>
+<PRICE>54€</PRICE>
+<DISCOUNT>49€</DISCOUNT>
+</ITEM>
+</CATALOG>

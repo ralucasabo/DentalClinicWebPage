@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Services</title>
+
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" type="text/css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="css/main.css" type="text/css">
+  <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+  <link rel="stylesheet" href="fontawesome/css/all.min.css" type="text/css">
+  <!-- <link rel="stylesheet" href="css/templatemo-style.css"> -->
+  <link rel="stylesheet" href="css/services.css">
+  <link rel="stylesheet" href="css/translate.css" type="text/css">
+
+  <script type="text/javascript" src="js_1/loadxml.js"></script>
+  <script>
+  (function(){
+    /*1*/var customSelects = document.querySelectorAll(".custom-dropdown__select");
+    /*2*/for(var i=0; i<customSelects.length; i++){
+      if (customSelects[i].hasAttribute("disabled")){
+        customSelects[i].parentNode.className += " custom-dropdown--disabled";
+      }
+    }
+  })()
+  </script>
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        <li>
+          <img src="images/logo-image.jpg" alt="image" width="80" height="55">
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="paginaprincipala.html">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="About.html">About us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="News.html">News</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Doctors.html">Doctors</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link active" href="Services.html">Services</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Contact.html">Contact us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="Login.html">Login</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+<main  class="site-content-page">
+    <div class="site-content-page-inner ">
+        <div class="page-content">
+            <div id="post-4557" class="post-4557 page type-page status-publish hentry">
+                <div class="entry-content clearfix">
+                    <div class="container" >
+                        <div class="wpb_text_column wpb_content_element  margin-bottom-30">
+                            <div class="wpb_wrapper">
+                                <p class="p1"><strong>Services and prices</strong></p>
+                                <br>
+                                <p>The staff of the <strong>Dent Clinic</strong> will gladly help you get all the information you need regarding payment and/or discounts and their availability.</p>
+                                <br>
+                            </div>
+                        </div>
+
+  <div>
+    <select required id="service_sel" onchange="loadXMLDoc()">
+      <option value="0" hidden selected>Select a service</option>
+      <option value="1">Preventive</option>
+      <option value="2">Tooth Treatment - Endodontics</option>
+      <option value="3">Tooth removal - Surgery - Implants</option>
+      <option value="4">Fixed Prosthetics</option>
+      <option value="5">Mobile Prosthetics</option>
+      <option value="6">Periodontics</option>
+    </select><br>
+  </div>
+
+  <div class="table-service-custom">
+      <table id="service_price" align="center"></table>
+  </div>
+
+
+
+<div class="wpb_text_column wpb_content_element ">
+    <div class="wpb_wrapper">
+        <p>Dental services are exempt from payment of VAT  (pursuant to article 11 the Value Added Tax Act). For additional information regarding fees of particular services, feel free to contact us.</p>
+        <p><strong>*Discount for cash payments does not apply to diagnostic services.</strong></p>
+
+    </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="google_translate_element"></div>
+
+<script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,ro', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+    }
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+</script>
+</main>
+</body>
+
+</html>

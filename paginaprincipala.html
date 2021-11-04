@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head lang="en" dir="ltr">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Dent Clinic</title>
+
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css" type="text/css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat" type="text/css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css">
+  <link rel="stylesheet" href="css/paginaprincipala.css" type="text/css">
+  <link rel="stylesheet" href="css/translate.css" type="text/css">
+
+  <script type="text/javascript" src="js_1/language.js"></script>
+
+</head>
+
+<body>
+<!-- Sidebar with image -->
+<nav class="w3-sidebar w3-hide-medium w3-hide-small" style="width:40%">
+    <div class="bgimg"></div>
+</nav>
+
+<!-- Hidden Sidebar (reveals when clicked on menu icon)-->
+<nav class="w3-sidebar w3-black w3-animate-right w3-xxlarge" style="display:none;padding-top:150px;right:0;z-index:2" id="mySidebar">
+    <a href="javascript:void(0)" onclick="closeNav()" class="w3-button w3-black w3-xxxlarge w3-display-topright" style="padding:0 12px;">
+        <i class="fa fa-remove"></i>
+    </a>
+    <div class="w3-bar-block w3-center">
+        <a href="paginaprincipala.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Home</a>
+        <a href="About.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">About us</a>
+        <a href="News.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">News</a>
+        <a href="Doctors.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Doctors</a>
+        <a href="Services.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Services</a>
+        <a href="Contact.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Contact us</a>
+        <a href="Login.html" class="w3-bar-item w3-button w3-text-grey w3-hover-black" onclick="closeNav()">Login</a>
+    </div>
+</nav>
+
+<!-- Page Content -->
+<div class="w3-main w3-padding-large" style="margin-left:40%">
+
+    <!-- Menu icon to open sidebar -->
+    <span class="w3-button w3-top w3-white w3-xxlarge w3-text-grey w3-hover-text-black" style="width:auto;right:0;" onclick="openNav()"><i class="fa fa-bars"></i></span>
+
+    <!-- Header -->
+    <header class="w3-container w3-center" style="padding:128px 16px" id="home">
+        <div class="logo-image">
+            <img src="images/original.png" alt="image">
+        </div>
+
+        <h1 class="w3-jumbo"><b>Dent Clinic</b></h1>
+        <p lang="en">Smile with confidence</p>
+
+        <button class="w3-button w3-light-grey w3-padding-large w3-margin-top">
+            <i class="fa fa-calendar-o"></i> Make an appointment
+        </button>
+    </header>
+
+    <p>The Clinic is a state-of-the-art facility for the highest quality dental care available. It is one of our top priorities to protect the well-being of our valued patients.
+      For this reason, our office meets and surpasses all standards for the equipment, materials and sterilization. We are confident that you will feel right at home in our office
+      as we welcome all patients as if they were family.</p>
+    <p>We would like to take this opportunity to thank you for choosing our practice for your dental care. </p><br>
+    <p><strong>Office Hours</strong><br>
+    Monday, Tuesday, Wednesday, Thursday, Friday from 9.00 to 18.00</p>
+    <iframe width="700" height="400" align="middle" src="https://www.youtube.com/embed/CIHc2B06PFc" frameborder="0" allow="accelerometer; autoplay;
+            clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <div class="w3-padding-32 w3-content" id="portfolio">
+        <h2 class="w3-text-grey" align="center">Emergency facilities</h2>
+        <hr class="w3-opacity">
+
+        <div class="w3-row-padding" style="margin:0 -16px">
+            <div class="w3-half">
+                <img src="images/dinte_spart.jpg" alt="image" style="width:25%">
+                <img src="images/carie.jpg" alt="image" style="width:25%">
+                <img src="images/periuta.jpg" alt="image" style="width:25%">
+            </div>
+
+            <div class="w3-half">
+                <img src="images/gingie.jpg" alt="image" style="width:25%">
+                <img src="images/dentist.jpg" alt="image" style="width:25%">
+                <img src="images/coroana_dinte.jpg" alt="image" style="width:25%">
+            </div>
+        </div>
+    </div>
+
+    <div id="google_translate_element"></div>
+
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'en,ro', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+        }
+    </script>
+
+    <script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
+    <!-- END PAGE CONTENT -->
+</div>
+</body>
+<script>
+    // Open and close sidebar
+    function openNav() {
+        document.getElementById("mySidebar").style.width = "60%";
+        document.getElementById("mySidebar").style.display = "block";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidebar").style.display = "none";
+    }
+</script>
+
+</html>

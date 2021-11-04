@@ -1,0 +1,22 @@
+body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
+.w3-row-padding img {margin-bottom: 12px}
+.bgimg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("fundal.jpg");
+    background-color: #fff;
+    min-height: 100%;
+}
+.center {
+    margin: 0 auto;
+}
+.logo-image{
+    width: 83px;
+    height: 61px;
+    margin-top: -6px;
+}
+iframe{
+    display:block;
+    margin:auto;
+}

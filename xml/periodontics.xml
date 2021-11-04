@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>Initial therapy</SERVICE>
+<PRICE>608€</PRICE>
+<DISCOUNT>547€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Recall</SERVICE>
+<PRICE>61€</PRICE>
+<DISCOUNT>55€</DISCOUNT>
+</ITEM>
+<ITEM id="3">
+<SERVICE>Flap operation</SERVICE>
+<PRICE>338€</PRICE>
+<DISCOUNT>304€</DISCOUNT>
+</ITEM>
+<ITEM id="4">
+<SERVICE>Gingivoplasty per tooth</SERVICE>
+<PRICE>68€</PRICE>
+<DISCOUNT>61€</DISCOUNT>
+</ITEM>
+<ITEM id="5">
+<SERVICE>Flap operation + artificial bone</SERVICE>
+<PRICE>676€</PRICE>
+<DISCOUNT>608€</DISCOUNT>
+</ITEM>
+</CATALOG>

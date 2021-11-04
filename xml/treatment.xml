@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>Root canal filling</SERVICE>
+<PRICE>68€</PRICE>
+<DISCOUNT>61€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Revision of root canal filling</SERVICE>
+<PRICE>81€</PRICE>
+<DISCOUNT>73€</DISCOUNT>
+</ITEM>
+</CATALOG>

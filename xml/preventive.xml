@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>First check-up</SERVICE>
+<PRICE>27€</PRICE>
+<DISCOUNT>24€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Check-up by specialist, consultations, x-ray reading, therapy plan</SERVICE>
+<PRICE>54€</PRICE>
+<DISCOUNT>49€</DISCOUNT>
+</ITEM>
+<ITEM id="3">
+<SERVICE>Professional removal of plaque</SERVICE>
+<PRICE>47€</PRICE>
+<DISCOUNT>43€</DISCOUNT>
+</ITEM>
+</CATALOG>

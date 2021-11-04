@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+<ITEM id="1">
+<SERVICE>Tooth removal (normal)</SERVICE>
+<PRICE>41€</PRICE>
+<DISCOUNT>36€</DISCOUNT>
+</ITEM>
+<ITEM id="2">
+<SERVICE>Tooth removal (complex)</SERVICE>
+<PRICE>68€</PRICE>
+<DISCOUNT>61€</DISCOUNT>
+</ITEM>
+<ITEM id="3">
+<SERVICE>Surgical tooth removal</SERVICE>
+<PRICE>95€</PRICE>
+<DISCOUNT>85€</DISCOUNT>
+</ITEM>
+<ITEM id="4">
+<SERVICE>Incision and abscess drainage</SERVICE>
+<PRICE>47€</PRICE>
+<DISCOUNT>43€</DISCOUNT>
+</ITEM>
+<ITEM id="5">
+<SERVICE>Alveolectomy</SERVICE>
+<PRICE>203€</PRICE>
+<DISCOUNT>182€</DISCOUNT>
+</ITEM>
+<ITEM id="6">
+<SERVICE>Apicotomy</SERVICE>
+<PRICE>203€</PRICE>
+<DISCOUNT>182€</DISCOUNT>
+</ITEM>
+<ITEM id="7">
+<SERVICE>Standard implant + lifetime warranty</SERVICE>
+<PRICE>600€</PRICE>
+<DISCOUNT>540€</DISCOUNT>
+</ITEM>
+<ITEM id="8">
+<SERVICE>Suprastructure/Standard Abutment</SERVICE>
+<PRICE>210€</PRICE>
+<DISCOUNT>189€</DISCOUNT>
+</ITEM>
+<ITEM id="9">
+<SERVICE>Premium Implant + lifetime warranty</SERVICE>
+<PRICE>709€</PRICE>
+<DISCOUNT>639€</DISCOUNT>
+</ITEM>
+<ITEM id="10">
+<SERVICE>Suprastructure/Premium Abutment</SERVICE>
+<PRICE>270€</PRICE>
+<DISCOUNT>243€</DISCOUNT>
+</ITEM>
+<ITEM id="11">
+<SERVICE>Sinus lift</SERVICE>
+<PRICE>709€</PRICE>
+<DISCOUNT>639€</DISCOUNT>
+</ITEM>
+<ITEM id="12">
+<SERVICE>Major artificial bone implantation / Augmentation</SERVICE>
+<PRICE>676€</PRICE>
+<DISCOUNT>608€</DISCOUNT>
+</ITEM>
+<ITEM id="13">
+<SERVICE>Minor artificial bone implantation / Augmentation</SERVICE>
+<PRICE>338€</PRICE>
+<DISCOUNT>304€</DISCOUNT>
+</ITEM>
+<ITEM id="14">
+<SERVICE>Vestibuloplasty</SERVICE>
+<PRICE>176€</PRICE>
+<DISCOUNT>158€</DISCOUNT>
+</ITEM>
+</CATALOG>
